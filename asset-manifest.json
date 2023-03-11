@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FoodieZone/static/css/main.17655c3c.css",
+    "main.js": "/FoodieZone/static/js/main.de71bca8.js",
+    "index.html": "/FoodieZone/index.html",
+    "main.17655c3c.css.map": "/FoodieZone/static/css/main.17655c3c.css.map",
+    "main.de71bca8.js.map": "/FoodieZone/static/js/main.de71bca8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.de71bca8.js"
+  ]
+}
